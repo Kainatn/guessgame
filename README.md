@@ -10,7 +10,7 @@
   ---
   
   ## About
-   
+  Guess The Number is a game where you must use your logic in order to guess a  digit secret number selected by the computer at the beginning of the game. The number is formed with digits from 1 to 100 , 1 to 500 and 1 to 100 in each level; each digit appears once at most. This number is guessed by you via multiple attempts. 
   
 # Available Scripts
 
